@@ -1,4 +1,4 @@
-# Reporting library for C#
+# Reporting library for C*#*
 
 - [Documentation](http://bugflux.com/guide/master/reporting-libraries/csharp.html)
 - [Contributing](http://bugflux.com/guide/master/for-developers/contributing.html)
@@ -12,7 +12,7 @@
 ```xml
 <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
 <projectUrl>http://bugflux.com/</projectUrl>
-<iconUrl>http://bugflux.com/img/icon-512.png</iconUrl>
+<iconUrl>http://bugflux.com/nuget.png</iconUrl>
 ```
 - `nuget pack Bugflux.csproj -Prop Configuration=Release`
 - Upload generated `nupkg` file to nuget gallery
