@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://bugflux.com/</projectUrl>
+    <iconUrl>http://bugflux.com/img/icon-512.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Fix default handler bug, methods names now start with capital letter.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>bugflux reporting error exception bug crash send report</tags>
+  </metadata>
+</package>
